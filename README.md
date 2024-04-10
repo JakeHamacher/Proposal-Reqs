@@ -72,6 +72,7 @@ Users find the sorting functionality intuitive and user-friendly, requiring mini
 
 The sorting feature performs efficiently even with a large number of writings in the database, ensuring a smooth user experience.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Functional Requirement 2 (FR2): Filtering Writings
 
@@ -141,6 +142,7 @@ Users find the filtering functionality intuitive and user-friendly, with clear i
 
 The filtering feature performs efficiently even with a large number of writings in the database, ensuring a smooth user experience.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Functional Requirement 3 (FR3): Searching Writings
 
@@ -209,6 +211,8 @@ The website executes the search queries accurately and retrieves relevant writin
 Search results are displayed to users in a clear and organized manner, providing relevant information for each matching writing.
 
 Users can access advanced search options to refine their search criteria and obtain more specific search results if needed.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Functional Requirement 4 (FR4): User Interaction with Writings
 
@@ -279,6 +283,7 @@ Users can bookmark or save writings for future reference, and the bookmarked wri
 
 Users can share writings with others via email, social media, or other communication channels, and the shared content is displayed accurately and includes relevant information about the writing.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Functional Requirement 5 (FR5): Performance and Scalability
 
